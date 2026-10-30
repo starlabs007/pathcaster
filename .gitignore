@@ -6,3 +6,4 @@ dist
 .env.*
 !.env.example
 supporting_materials/
+.claude/
